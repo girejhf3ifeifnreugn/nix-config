@@ -1,0 +1,37 @@
+window:
+  padding:
+    x: 30
+    y: 30
+  class:
+    instance: Alacritty
+    general: Alacritty
+  opacity: 0.72
+
+scrolling:
+  history: 10000
+  multiplier: 3
+
+
+font:
+  normal:
+    family: JetBrainsMono Nerd Font
+    style:  Medium
+  bold:
+    family: JetBrainsMono Nerd Font
+    style:  Bold
+  italic:
+    family: JetBrainsMono Nerd Font
+    style:  MediumItalic
+  bold_italic:
+    family: JetBrainsMono Nerd Font
+    style: BoldItalic
+  size: 14
+draw_bold_text_with_bright_colors: false
+
+colors:
+  primary:
+    background: "#282828"
+    foreground: "#ebdbb2"
+
+selection:
+  save_to_clipboard: false
