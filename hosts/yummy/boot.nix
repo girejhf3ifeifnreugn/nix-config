@@ -21,6 +21,5 @@
     canTouchEfiVariables = true;
     efiSysMountPoint = "/boot";
   };
- 
-}
+ }
 
